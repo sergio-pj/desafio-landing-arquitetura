@@ -1,0 +1,155 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+/* Fundo cinza no container, separado do título */
+#menu-superior {
+    background-color: #303030; /* Tom de cinza */
+    padding: 130px;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+/* Estilo específico para o título */
+#titulo-menusuperior {
+    font-size: 280%;
+    color: white;
+    margin-left: 0px;
+    text-align: left;
+    margin-top: 30px;
+    margin-right: 55px;
+}
+
+/* Estilo específico para o texto */
+#texto-menusuperior {
+    font-size: 100%;
+    color: white;
+    margin-left: 0px;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+/* Estiliza o contêiner principal para dispor as colunas */
+#menu-informacional {
+    display: flex;
+    justify-content: space-around; /* Distribui as colunas igualmente */
+    padding: 55px;
+    background-color: #f9f9f9; /* Fundo cinza opcional */
+}
+
+/* Cada coluna será alinhada verticalmente */
+#menu-informacional div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Estilos para o H1 e P */
+
+
+#menu-informacional p {
+    font-size: 1em;
+    color: #000000;
+    margin: 5px 0 0;
+}
+
+#empreendimentos{
+    margin-right: 170px;
+}
+
+#anos{
+    margin-right: 192px;
+}
+
+#m2{
+    margin-right: 50px;
+}
+
+#menu-imagem{
+    margin-left: 0px;
+    background-color: white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Estilos para o texto no lado esquerdo */
+#menu-imagem #titulo-imagem,
+#menu-imagem #texto-imagem {
+    text-align: left; /* Garante que o texto esteja alinhado à esquerda */
+    margin-left: 250px;
+}
+
+#titulo-imagem{
+    font-size: 250%;
+}
+
+#texto-imagem{
+    margin-top: 25px;
+    font-size: 120%;
+
+}
+
+/* Controla o tamanho da imagem no lado direito */
+#imagem {
+    width: 530px; /* Ajuste a largura conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+    margin-right: 95px;
+}
+
+#menu-formulario{
+    background-color: #303030;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 85px;
+
+}
+
+#titulo-formulario{
+    font-size: 35px;
+    margin: 85px;
+    color: white;
+    padding-top: 95px;
+
+}
+
+input {
+    width: 315px;
+    height: 45px;
+    padding-left: 40px;
+    margin: 30px;
+    border-radius: 10px;
+    background-color: #eaece5;
+    border: 10px;
+    margin-bottom: 30px;
+}
+
+
+button{
+    border: 3px dashed #C07212; /* Borda com estilo tracejado e cor laranja */
+    border-radius: 12px; /* Cantos mais arredondados */
+    padding: 15px 30px;
+    background-color: #C07212;
+    color: white;
+    font-weight: bold;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #C07212;
+    color: white;
+    transform: translate(-4px);
+    box-shadow: 0px 15px 20px #b9990781;
+    transition-duration: 0.5s;
+
+}
+
+#nome{
+    background-color: white;
+}
