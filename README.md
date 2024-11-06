@@ -2,7 +2,7 @@
 
 Este é um projeto de site de arquitetura que destaca a tradição e experiência em projetos de arquitetura residencial e comercial. O site apresenta uma interface visual limpa, com seções informativas sobre os serviços e realizações da empresa, incluindo um formulário de contato.
 Link do site disponibilizado: https://phenomenal-pegasus-a5cc64.netlify.app/
-Link da planilha de registro de informações: https://api.sheetmonkey.io/form/nQpyryaWZM4aUtkDz6hNM4
+Link da planilha de registro de informações: [https://api.sheetmonkey.io/form/nQpyryaWZM4aUtkDz6hNM4](https://docs.google.com/spreadsheets/d/1_thNjUo-8lduCL4wqOOHjYQ75lEkxo7uX3fwN2oWLrQ/edit)
 
 ---
 
